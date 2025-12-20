@@ -1,2 +1,2 @@
 # Resource-Packs-Host
-Just Hosting my JEXT Resource Pack
+Just Hosting my Resource Pack for my server
